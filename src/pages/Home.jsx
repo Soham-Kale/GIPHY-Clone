@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react'
 import { GifState } from '../context/gif-context';
-import Gif from "../components/gif";
+import Gif from "../components/Gif";
 import FilterGif from "../components/FilterGif"
 
 const Home = () => {
