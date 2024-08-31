@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { GifState } from "../context/gif-context";
 import { useParams } from "react-router-dom";
-import Gif from "../components/gif";
+import Gif from "../components/Gif";
 import FollowOn from "../components/FollowOn";
 
 const Category = () => {
