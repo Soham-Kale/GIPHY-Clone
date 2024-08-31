@@ -2,13 +2,6 @@
 
 This project is a GIPHY clone built using ReactJS. It allows users to search for GIFs and display them in a grid format. The application fetches data from the GIPHY API and presents it in a user-friendly interface.
 
-## Features
-
--   Search for GIFs using the GIPHY API.
--   Display GIFs in a responsive grid layout.
--   Infinite scrolling to load more GIFs.
--   View GIF details in a modal.
-
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
