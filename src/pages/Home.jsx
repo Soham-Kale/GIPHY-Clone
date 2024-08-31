@@ -22,7 +22,7 @@ const Home = () => {
     return (
         <div>
             <img 
-                src="/public/banner.gif"
+                src="/banner.gif"
                 alt="earth banner" 
                 className='mt-2 rounded w-full'
             />
